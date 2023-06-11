@@ -5,9 +5,8 @@ const Footer: Component = () => {
         <p class='text-center mt-20 mb-4'>
             <span class='font-robotomono'>Copyright</span> &copy;{' '}
             <span class='font-robotomono'>2023-present</span>{' '}
-            <a class='hover:underline font-robotomono' target='_blank' href='https://hanzy.dev'>
-                Hànzy
-            </a>
+            <span class='font-robotomono'>Gliese</span>{' '}
+           
         </p>
     );
 };
